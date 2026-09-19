@@ -1,0 +1,14 @@
+bcrypt==5.0.0
+cffi==2.1.1
+cryptography==50.0.1
+invoke==3.0.3
+lxml==6.1.2
+ncclient==0.6.19
+numpy==2.2.6
+paramiko==5.0.0
+protobuf==7.36.0
+pycparser==3.0
+PyNaCl==1.6.2
+pysros==26.7.1
+transforms3d==0.4.2
+typing_extensions==4.16.0
